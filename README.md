@@ -16,8 +16,8 @@
 
 ### Projects
 
-- **[SpendFlow](https://github.com/Inch1337/SpendFlow)** — personal expense tracker with ASP.NET Core, PostgreSQL and Docker.
-- **[Remnawave SelfSteal](https://github.com/Inch1337/Remnawave-Selfsteal-Nginx)** — Nginx and TLS setup for Remnawave self-steal configurations.
+- **[SpendFlow](https://github.com/Inch1337/SpendFlow)** - personal expense tracker with ASP.NET Core, PostgreSQL and Docker.
+- **[Remnawave SelfSteal](https://github.com/Inch1337/Remnawave-Selfsteal-Nginx)** - Nginx and TLS setup for Remnawave self-steal configurations.
 
 ### GitHub Streak
 
