@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Inch1337 👋</h1>
 
 <p align="center">
-  Backend development · C# / .NET · Go<br>
-  Building web APIs, small apps and Telegram bots.
+  Backend development · Go · C# / .NET<br>
+  Turning bold ideas into cool projects.<br>
+  I love building my own tools, exploring new tech and making things happen.
 </p>
 
 ### Languages and Tools
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,cs,dotnet,postgres,docker,bash,html,css,js,git,github&amp;theme=dark" alt="Go, C#, .NET, PostgreSQL, Docker, Bash, HTML, CSS, JavaScript, Git, GitHub">
   </a>
@@ -16,7 +17,7 @@
 ### Projects
 
 - **[SpendFlow](https://github.com/Inch1337/SpendFlow)** — personal expense tracker with ASP.NET Core, PostgreSQL and Docker.
-- **[BasicServer](https://github.com/Inch1337/BasicServer)** — a learning project exploring Go, HTTP servers and PostgreSQL.
+- **[Remnawave SelfSteal](https://github.com/Inch1337/Remnawave-Selfsteal-Nginx)** — Nginx and TLS setup for Remnawave self-steal configurations.
 
 ### GitHub Streak
 
