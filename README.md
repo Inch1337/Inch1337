@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Inch1337 👋</h1>
 
-<!--
-**Inch1337/Inch1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend development · C# / .NET · Go<br>
+  Building web APIs, small apps and Telegram bots.
+</p>
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,docker&amp;theme=dark" alt="C#, .NET, Go, PostgreSQL, Docker">
+  </a>
+</p>
+
+### Projects
+
+- **[SpendFlow](https://github.com/Inch1337/SpendFlow)** — personal expense tracker with ASP.NET Core, PostgreSQL and Docker.
+- **[BasicServer](https://github.com/Inch1337/BasicServer)** — a learning project exploring Go, HTTP servers and PostgreSQL.
+
+### GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/Inch1337?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=Inch1337&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" alt="Inch1337 — Total Contributions, Current Streak and Longest Streak" width="495">
+  </a>
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inch1337/Inch1337/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inch1337/Inch1337/output/github-snake.svg">
+    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Inch1337/Inch1337/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
