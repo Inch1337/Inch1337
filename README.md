@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Inch1337 👋</h1>
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 
 <p align="center">
   Backend development · Go · C# / .NET<br>
