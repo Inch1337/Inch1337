@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,docker&amp;theme=dark" alt="C#, .NET, Go, PostgreSQL, Docker">
+    <img src="https://skillicons.dev/icons?i=go,cs,dotnet,postgres,docker,bash,html,css,js,git,github&amp;theme=dark" alt="Go, C#, .NET, PostgreSQL, Docker, Bash, HTML, CSS, JavaScript, Git, GitHub">
   </a>
 </p>
 
