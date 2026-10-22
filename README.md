@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cs,dotnet,postgres,docker,bash,html,css,js,git,github&amp;theme=dark" alt="Go, C#, .NET, PostgreSQL, Docker, Bash, HTML, CSS, JavaScript, Git, GitHub">
+    <img src="https://skillicons.dev/icons?i=go,cs,js,html,css,bash,dotnet,graphql,postgres,mongodb,redis,linux,docker,git,github,visualstudio,postman,obsidian&amp;theme=dark&amp;perline=9" alt="Go, C#, JavaScript, HTML, CSS, Bash, .NET, GraphQL, PostgreSQL, MongoDB, Redis, Linux, Docker, Git, GitHub, Visual Studio, Postman, Obsidian">
   </a>
 </p>
 
